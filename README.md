@@ -27,13 +27,14 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ujjval-Dargar&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&cache_bust=1)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ujjval-Dargar&theme=blue-green&hide_border=false&cache_bust=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=1)
+
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ujjval-Dargar&theme=monokai&combine_all_yearly_contributions=true&limit=5)
+![](https://github-contributor-stats.vercel.app/api?username=Ujjval-Dargar&theme=blue-green&combine_all_yearly_contributions=true&limit=5&cache_bust=1)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ujjval-Dargar&icon=0&color=0)](https://visitcount.itsvg.in)
