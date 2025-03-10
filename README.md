@@ -32,7 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ujjval-Dargar&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ujjval-Dargar&theme=monokai&combine_all_yearly_contributions=true&limit=5)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ujjval-Dargar&icon=0&color=0)](https://visitcount.itsvg.in)
