@@ -27,9 +27,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&cache_bust=1)<br/>
+![Ujjval-dargar's Stats](https://github-readme-stats.vercel.app/api?username=Ujjval-dargar&theme=blue-green&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ujjval-Dargar&theme=blue-green&hide_border=false&cache_bust=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjval-Dargar&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=1)
+![Ujjval-dargar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjval-dargar&theme=blue-green&show_icons=true&hide_border=false&layout=compact&include_all_commits=true&count_private=true)
+
 
 
 
