@@ -23,7 +23,7 @@
 
 # 📊 LeetCode Stats:
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/UD_?ext=heatmap&theme=dark)](https://leetcode.com/u/UD_/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/_UD?ext=heatmap&theme=dark)](https://leetcode.com/u/UD_/)
 
 
 # 📊 GitHub Stats:
